@@ -1,0 +1,2 @@
+//Desabilita autenticação nas atualizações e instalações de plugins
+define('FS_METHOD','direct');
