@@ -1,0 +1,20 @@
+TAGS
+<meta name="description" content="Descrição sobre o conteúdoda página..." />
+<meta name="keywords" content="palavras, chaves, sobre, seu, conteudo" />
+<meta name="author" content="João Silva"> <!-- O nome da pessoa que criou o conteúdo da página. Não ajuda no SEO, mas o Facebook por exemplo mostra o autor especificado nessa meta tag quando você compartilha um link. -->
+<link rel="author" href="https://plus.google.com/[YOUR PERSONAL G+ PROFILE HERE]"/>
+<meta name="copyright" content="nome do criador" />
+<meta http-equiv="content-language" content="pt-br"> <!-- informa o idioma do conteúdo para o navegador e buscadores -->
+
+//Facebook
+<meta property="og:title" content="..."/>
+<meta property="og:description" content="..."/>
+<meta property="og:image" content="http://sua_url.com/foto-facebook.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="http://blog.iacquire.com"/>
+<meta property="fb:admins" content="USER_ID"/>
+
+//Twitter
+<meta name="twitter:title" content="...">
+<meta name="twitter:description" content="...">
+<meta name="twitter:image" content="http://sua_url.com/foto-twitter.jpg">
