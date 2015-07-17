@@ -1,0 +1,3 @@
+## EVITANDO CONTEUDO DUPLICADO #
+RewriteCond %{HTTP_HOST} ^matheusilario.com.br [NC]
+RewriteRule ^(.*) http://www.matheusilario.com.br/$1 [L,R=301]
